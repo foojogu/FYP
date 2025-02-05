@@ -1,0 +1,4 @@
+Problem ID,Title,Difficulty,Description,Topics Covered,Source,Link
+101,Reverse a String,Intermediate,Reverse a given string without using built-in functions.,"Strings, Loops",W3Resource,https://www.w3resource.com/java-exercises
+102,Fibonacci Sequence,Intermediate,Generate the Fibonacci sequence up to N terms.,"Recursion, Loops",CodingBat,https://codingbat.com/prob/p113659
+103,Find Factorial,Intermediate,Find the factorial of a number using recursion.,"Recursion, Math",GeeksforGeeks,https://www.geeksforgeeks.org/java-exercises

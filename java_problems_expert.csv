@@ -1,0 +1,4 @@
+Problem ID,Title,Difficulty,Description,Topics Covered,Source,Link
+201,Sudoku Solver,Expert,Solve a given Sudoku puzzle using backtracking.,"Backtracking, Recursion",GeeksforGeeks,https://www.geeksforgeeks.org/java-exercises
+202,Dijkstra's Algorithm,Expert,Implement Dijkstra's shortest path algorithm.,"Graphs, Algorithms",W3Resource,https://www.w3resource.com/java-exercises
+203,Multithreaded Sorting,Expert,Implement sorting using multiple threads.,"Multithreading, Sorting",CodingBat,https://codingbat.com/prob/p214569

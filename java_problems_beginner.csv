@@ -1,0 +1,4 @@
+Problem ID,Title,Difficulty,Description,Topics Covered,Source,Link
+1,Print Hello World,Beginner,"Print 'Hello, World!' to the console","Basics, Output",W3Resource,https://www.w3resource.com/java-exercises/basic
+2,Sum of Two Numbers,Beginner,Write a program that takes two integers as input and prints their sum.,"Arithmetic, Input/Output",CodingBat,https://codingbat.com/prob/p111327
+3,Check Even or Odd,Beginner,Determine if a number is even or odd.,"Conditionals, Modulus",GeeksforGeeks,https://www.geeksforgeeks.org/java-exercises
